@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AetherEd517
-- 👀 I’m interested in the DevOps Engineer Path
-- 🌱 I’m currently learning Phyton & Linux
+- 👀 I’m interested in the DevOps Engineer Path or ABAP programing.
+- 🌱 I’m currently learning Phyton, Linux and ABAP.
 - 💞️ I’m looking to collaborate on --
 <!-- 📫 How to reach me ...
 - 😄 Pronouns: ...
